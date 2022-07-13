@@ -1,0 +1,46 @@
+.aj {
+    margin-left: 70%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #39951c;
+}
+h3 {
+    font-size: 50px;
+    text-align: center;
+}
+.info {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+img {
+width: 400px;
+height: 300px;
+background-size: cover;
+}
+
+form {
+    background-color: #6caa59;
+    text-align: center;
+    }
+
+button{
+    background-color: #f04426;
+    margin-left: 48%;
+    size: 100px;
+}
+button:hover{
+    background-color: #134d2b;
+}
+
+footer{
+    font-size: small;
+    text-align: center;
+    color: rgb(60, 179, 113);
+}
+
+@media only screen and (max-width: 600px) {
+    .mobile-text {
+      background-color: lightblue;
+    }}
